@@ -1,1 +1,1 @@
-[{"nombre":"Pinza","id":0},{"nombre":"Martillo","id":1},{"nombre":"Inglesa","id":2}]
+[{"title":"Escuadra","price":123.45,"id":0},{"title":"Calculadora","price":63.45,"id":1},{"title":"Globo Terraqueo","price":345.45,"id":2}]
